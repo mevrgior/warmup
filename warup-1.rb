@@ -5,7 +5,7 @@ asked_name = gets;
 asked_name.strip!
 
 if asked_name == "Nynne" 
-  puts "xi,x2,x3"
+  puts "Nynne favorite things are xi,x2,x3"
 elsif asked_name == "Elena"
   puts "z1, z2, z3"
 elsif asked_name == "Danielle"
